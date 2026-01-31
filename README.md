@@ -1,2 +1,2 @@
 python for speaking module
-just run it directly un vs code type editor
+just run it directly on vs code type editor
